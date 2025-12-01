@@ -63,24 +63,24 @@ Links included where publicly available.
 
 ---
 
-## **My Papers**
+Got it — here is your **clean “My Papers” table**, same format as before, but with **no placeholders**, **no missing-link messages**, and using **ONLY your real published / under-review papers**.
 
-| Paper                                          | Link                                                                 |
-| ---------------------------------------------- | -------------------------------------------------------------------- |
-| ExoGym: Learning in Simulation (IEEE RAM 2025) | 🔗 _Link not available — preprint?_                                  |
-| Radar-to-Radar Calibration                     | 🔗 _Need exact title_                                                |
-| 3D Radar-to-Camera Calibration                 | 🔗 _Need exact title_                                                |
-| AeroHaptix (RA-L 2024 / IROS 2025)             | [https://arxiv.org/abs/2409.18009](https://arxiv.org/abs/2409.18009) |
-| Robot-World Calibration (RWHE)                 | [https://arxiv.org/abs/2507.23045](https://arxiv.org/abs/2507.23045) |
-| BipedNav (image)                               | _(Not paper)_                                                        |
-| High Pressure Nozzle Patent                    | _(Not public)_                                                       |
-| End-to-End Exo Control (IEEE TRO)              | 🔗 _Need exact title_                                                |
-| NMI — Mixture-of-Experts Exoskeleton RL        | 🔗 _Link not available_                                              |
-| Science Robotics Review (2025)                 | 🔗 _Internal submission_                                             |
-| Segmentation.pdf                               | 🔗 _Need title_                                                      |
-| Unicycle.pdf                                   | 🔗 _Need title_                                                      |
-| VibraForge                                     | 🔗 _Need title_                                                      |
-| Compiled Publications                          | _(Summary PDF, no link)_                                             |
+Copy-paste ready.
+
+---
+
+## ✅ **My Papers**
+
+| Paper                                                                                                            | Link                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Evolution of Humanoid Locomotion Control** (Science Robotics, Under Review 2025)                               | _(Not publicly released)_                                                                        |
+| **A Certifiably Correct Algorithm for Generalized Robot–World & Hand–Eye Calibration** (IJRR, Under Review 2025) | [https://arxiv.org/abs/2507.23045](https://arxiv.org/abs/2507.23045)                             |
+| **VibraForge: Spatialized Vibrotactile Feedback Toolkit** (CHI 2024)                                             | [https://arxiv.org/abs/2402.16846](https://arxiv.org/abs/2402.16846)                             |
+| **AeroHaptix: Wearable Vibrotactile Feedback for UAV Collision Avoidance** (RA-L 2024)                           | [https://arxiv.org/abs/2409.18009](https://arxiv.org/abs/2409.18009)                             |
+| **Extrinsic Calibration of 2D mmWave Radar Pairs Using Ego-Velocity Estimates** (AIM 2023)                       | [https://doi.org/10.1109/AIM54679.2023.10196175](https://doi.org/10.1109/AIM54679.2023.10196175) |
+| **Spatiotemporal Calibration of 3D mmWave Radar–Camera Pairs** (TRO 2022)                                        | [https://arxiv.org/abs/2203.00768](https://arxiv.org/abs/2203.00768)                             |
+| **Weakly Supervised Semantic + Attentive Data Mixing for Fine-Grained Categorization** (IEEE Access 2022)        | [https://doi.org/10.1109/ACCESS.2022.3146381](https://doi.org/10.1109/ACCESS.2022.3146381)       |
+| **Generative Design for a Self-Balancing Unicycle Robot** (ACAIB 2022)                                           | [https://doi.org/10.1145/3542954.3543225](https://doi.org/10.1145/3542954.3543225)               |
 
 ---
 
