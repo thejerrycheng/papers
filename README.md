@@ -282,15 +282,3 @@ Below, your **original tables are preserved**, but placed into the new conceptua
 | --------------------------------------- | -------------------------------------------------------------------- |
 | Continuous-Time State Estimation Survey | [https://arxiv.org/abs/2302.05390](https://arxiv.org/abs/2302.05390) |
 
----
-
-# 🎉 **All your papers are preserved, reorganized, and contextualized inside a coherent framework.**
-
-If you want, I can also:
-
-✔ Generate an “interactive table of contents”
-✔ Produce a version in **LaTeX**
-✔ Create a website version for your GitHub Pages site
-✔ Auto-sort papers alphabetically or chronologically
-
-Just tell me!
